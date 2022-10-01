@@ -129,6 +129,9 @@ function BlogPostTemplate(props) {
               <li>
                 <a href="/th">Thai</a>
               </li>
+              <li>
+                <a href="/tr">Turkish</a>
+              </li>
             </ul>
           </Section>
         </Animation>
